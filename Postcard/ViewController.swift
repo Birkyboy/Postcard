@@ -27,6 +27,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
         // Adding a comments to test commits on github.
+        // adding a second comment to test  git commits a second time.
     }
 
     @IBAction func sendMailButtonPressed(sender: UIButton) {
